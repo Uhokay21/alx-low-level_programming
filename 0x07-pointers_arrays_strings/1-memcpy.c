@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _memcpy – this function copies byte from @src memory area
+ * _memcpy - irontnoux2
  * @dest: pointer to char params
  * @src: pointer to char params
  * @n: size
@@ -18,4 +18,3 @@ char *_memcpy(char *dest, char *src, unsigned int n)
 	}
 	return (dest);
 }
-
